@@ -2,10 +2,11 @@ html{
     background-color: black;
 }
 
-h1, h3{
+h1, h2{
     font-family: "Dancing Script", cursive;
     color: white;
     text-align: center;
+
 }
 
 li{
@@ -17,6 +18,29 @@ li{
 .caffè,.birra,.croissant,.vino,.cocktail{
     -webkit-filter: invert(100%);
     filter: invert(100%);
+}
+@media (max-width: 600px) {
+    h1{
+        font-size: 4em;
+    }
+    h2{
+        font-size: 3em;
+    } 
+    li{
+        font-size: 2em;
+    }
+}
+@media (min-width: 601px) {
+    h1{
+        font-size: 2.5em;
+    }
+    h2{
+        font-size: 1.7em;
+    }
+    li{
+        font-size: 1.3em;
+        justify-content: space-between;
+    }
 }
 .caffè{
     width: 50px;
@@ -40,7 +64,7 @@ li{
     width: 60px;
     position: relative;
     left: 80vw;
-    top: 16px; 
+    top: 14px; 
 
 }
 .cocktail{

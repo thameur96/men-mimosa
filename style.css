@@ -14,9 +14,38 @@ li{
     display: flex;
     justify-content: space-between;
 }
-.caffè, .birra{
-    width: 70px;
+.caffè,.birra,.croissant,.vino,.cocktail{
+    -webkit-filter: invert(100%);
+    filter: invert(100%);
+}
+.caffè{
+    width: 50px;
     position: relative;
     left: 80vw;
-    top: 40px;
+    top: 25px;
+}
+.croissant{
+    height: 60px; 
+    position: relative;
+    left: 80vw;
+    top: 25px;
+}
+.birra{
+    width: 60px;
+    position: relative;
+    left: 80vw;
+    top: 16px; 
+}
+.vino{
+    width: 60px;
+    position: relative;
+    left: 80vw;
+    top: 16px; 
+
+}
+.cocktail{
+    width: 50px;
+    position: relative; 
+    left: 82vw;
+    top: 15px; 
 }

@@ -1,0 +1,69 @@
+[{
+    "nome" : "Aperitivo ","costo": "6,00 \/ 7,00"
+   },
+   {
+    "nome" : "Bicchiere acqua piccola","costo": 0.3
+   },
+   {
+    "nome" : "Bicchiere acqua grande","costo": 0.5
+   },
+   {
+    "nome" : "Calice di vino","costo": 4.0
+   },
+   {
+    "nome" : "* Franciacorta","costo": 6.0
+   },
+   {
+    "nome" : "Birra in bottiglia","costo": 3.0
+   },
+   {
+    "nome" : "* Flea \/ moretti","costo": 3.5
+   },
+   {
+    "nome" : "Menabrea alla spina piccola ","costo": 4.5
+   },
+   {
+    "nome" : "Menabrea alla spina grande","costo": 5.5
+   },
+   {
+    "nome" : "Amari ","costo": 3.0
+   },
+   {
+    "nome" : "Amaro mezzo","costo": 1.5
+   },
+   {
+    "nome" : "grappa 903","costo": 3.5
+   },
+   {
+    "nome" : "* mezzo ","costo": 2.0
+   },
+   {
+    "nome" : "Campari \/ Crodino","costo": 3.0
+   },
+   {
+    "nome" : "* corretto","costo": 3.5
+   },
+   {
+    "nome" : "cocktail","costo": 6.0
+   },
+   {
+    "nome" : "Bevande frigorifero","costo": 2.5
+   },
+   {
+    "nome" : "* Esta tè ","costo": 1.2
+   },
+   {
+    "nome" : "Bevande frigo bancone","costo": 3.0
+   },
+   {
+    "nome" : "* Aperol soda","costo": 2.5
+   },
+   {
+    "nome" : "Cioccolata calda ","costo": 4.0
+   },
+   {
+    "nome" : "* con panna","costo": 4.5
+   },
+   {
+    "nome" : "Tè caldo","costo": 3.5
+   }]

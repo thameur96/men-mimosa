@@ -1,0 +1,22 @@
+html{
+    background-color: black;
+}
+
+h1, h3{
+    font-family: "Dancing Script", cursive;
+    color: white;
+    text-align: center;
+}
+
+li{
+    font-family: "Dancing Script", cursive;
+    color:white;
+    display: flex;
+    justify-content: space-between;
+}
+.caffè, .birra{
+    width: 70px;
+    position: relative;
+    left: 80vw;
+    top: 40px;
+}

@@ -1,0 +1,86 @@
+[
+    {
+        "nome" : "Cornetto piccolo","costo": 0.8
+       },
+       {
+        "nome" : "Cornetto piccolo pistacchio ","costo": 1
+       },
+       {
+        "nome" : "Ciambella","costo": 1.2
+       },
+       {
+        "nome" : "Cornetto vuoto","costo": 1.2
+       },
+       {
+        "nome" : "Cornetto integrale ","costo": 1.2
+       },
+       {
+        "nome" : "Cornetto integrale ripieno","costo": 1.5
+       },
+       {
+        "nome" : "Cornetti ripieni \/ bombolone \/ sfogliatella \/ girella \/ veneziana","costo": 1.2
+       },
+       {
+        "nome" : "Cornetto pistacchio \/ rustica","costo": 1.5
+       },
+       {
+        "nome" : "Bignè alla panna","costo": 2
+       },
+       {
+        "nome" : "Bignè crema chantilly","costo": 1.5
+       },
+       {
+        "nome" : "Bignè alla crema pasticcera \/ cioccolato ","costo": 1.2
+       },
+       {
+        "nome" : "Cestino di frutta ","costo": 1.2
+       },
+       {
+        "nome" : "Occhi di bue ","costo": 2
+       },
+       {
+        "nome" : "Pezzo crostata","costo": 2.2
+       },
+       {
+        "nome" : "Muffin ","costo": 2.5
+       },
+       {
+        "nome" : "Mignon ","costo": "0,80 al pz. \/ 24,00 al kg"
+       },
+       {
+        "nome" : "Biscotti ","costo": "0,40 al pz. \/ 26,00 al kg"
+       },
+       {
+        "nome" : "Torte ","costo": "24,00 al kg"
+       },
+       {
+        "nome" : "Pizza mignon","costo": 0.3
+       },
+       {
+        "nome" : "Pizza media","costo": 0.8
+       },
+       {
+        "nome" : "Pizza grande ","costo": 1.8
+       },
+       {
+        "nome" : "Tramezzino \/ Tramezzino pizza ","costo": 2.8
+       },
+       {
+        "nome" : "Panini piccoli","costo": 2.2
+       },
+       {
+        "nome" : "sandwich","costo": 2.2
+       },
+       {
+        "nome" : "Croissant salati farciti","costo": 2.5
+       },
+       {
+        "nome" : "Panini integrali piccoli","costo": 2.5
+       },
+       {
+        "nome" : "Panino integrali grandi","costo": 5
+       },
+       {
+        "nome" : "piadina","costo": 5
+       }
+]

@@ -1,0 +1,209 @@
+[
+    {
+        "nome": "caffè","costo": 1.20
+    },
+    {
+     "nome" :    "caffè macchiato","costo": 1.20
+    },
+    {
+     "nome" : "Decaffeinato","costo": 1.5
+    },
+    {
+     "nome" : "Caffè americano","costo": 1.3
+    },
+    {
+     "nome" : "Caffè macchiato soia ","costo": 1.2
+    },
+    {
+     "nome" : "Caffè corretto ","costo": 1.5
+    },
+    {
+     "nome" : "Orzo e ginseng piccolo","costo": 1.5
+    },
+    {
+     "nome" : "\/\/ corretto ","costo": 1.8
+    },
+    {
+     "nome" : "Orzo ginseng grande ","costo": 1.8
+    },
+    {
+     "nome" : "\/\/ corretto","costo": 2
+    },
+    {
+     "nome" : "Cappuccino","costo": 1.4
+    },
+    {
+     "nome" : "Cappuccino soia \/ senza lattosio ","costo": 1.7
+    },
+    {
+     "nome" : "Cappuccino decaffeinato","costo": 1.7
+    },
+    {
+     "nome" : "Cappuccino decaffeinato soia \/ senza lattosio ","costo": 2
+    },
+    {
+     "nome" : "Crema caffè piccola","costo": 2.5
+    },
+    {
+     "nome" : "Crema caffè grande","costo": 3.5
+    },
+    {
+     "nome" : "Spremuta arancia","costo": 3.5
+    },
+    {
+     "nome" : "Spremuta mista \/ solo melograno ","costo": 4
+    },
+    {
+     "nome" : "Cornetto piccolo","costo": 0.8
+    },
+    {
+     "nome" : "Cornetto piccolo pistacchio ","costo": 1
+    },
+    {
+     "nome" : "Ciambella","costo": 1.2
+    },
+    {
+     "nome" : "Cornetto vuoto","costo": 1.2
+    },
+    {
+     "nome" : "Cornetto integrale ","costo": 1.2
+    },
+    {
+     "nome" : "Cornetto integrale ripieno","costo": 1.5
+    },
+    {
+     "nome" : "Cornetti ripieni \/ bombolone \/ sfogliatella \/ girella \/ veneziana","costo": 1.2
+    },
+    {
+     "nome" : "Cornetto pistacchio \/ rustica","costo": 1.5
+    },
+    {
+     "nome" : "Bignè alla panna","costo": 2
+    },
+    {
+     "nome" : "Bignè crema chantilly","costo": 1.5
+    },
+    {
+     "nome" : "Bignè alla crema pasticcera \/ cioccolato ","costo": 1.2
+    },
+    {
+     "nome" : "Cestino di frutta ","costo": 1.2
+    },
+    {
+     "nome" : "Occhi di bue ","costo": 2
+    },
+    {
+     "nome" : "Pezzo crostata","costo": 2.2
+    },
+    {
+     "nome" : "Muffin ","costo": 2.5
+    },
+    {
+     "nome" : "Mignon ","costo": "0,80 al pz. \/ 24,00 al kg"
+    },
+    {
+     "nome" : "Biscotti ","costo": "0,40 al pz. \/ 26,00 al kg"
+    },
+    {
+     "nome" : "Torte ","costo": "24,00 al kg"
+    },
+    {
+     "nome" : "Pizza mignon","costo": 0.3
+    },
+    {
+     "nome" : "Pizza media","costo": 0.8
+    },
+    {
+     "nome" : "Pizza grande ","costo": 1.8
+    },
+    {
+     "nome" : "Tramezzino \/ Tramezzino pizza ","costo": 2.8
+    },
+    {
+     "nome" : "Panini piccoli","costo": 2.2
+    },
+    {
+     "nome" : "sandwich","costo": 2.2
+    },
+    {
+     "nome" : "Croissant salati farciti","costo": 2.5
+    },
+    {
+     "nome" : "Panini integrali piccoli","costo": 2.5
+    },
+    {
+     "nome" : "Panino integrali grandi","costo": 5
+    },
+    {
+     "nome" : "piadina","costo": 5
+    },
+    {
+     "nome" : "Aperitivo ","costo": "6,00 \/ 7,00"
+    },
+    {
+     "nome" : "Bicchiere acqua piccola","costo": 0.3
+    },
+    {
+     "nome" : "Bicchiere acqua grande","costo": 0.5
+    },
+    {
+     "nome" : "Calice di vino","costo": 4
+    },
+    {
+     "nome" : "* Franciacorta","costo": 6
+    },
+    {
+     "nome" : "Birra in bottiglia","costo": 3
+    },
+    {
+     "nome" : "* Flea \/ moretti","costo": 3.5
+    },
+    {
+     "nome" : "Menabrea alla spina piccola ","costo": 4.5
+    },
+    {
+     "nome" : "Menabrea alla spina grande","costo": 5.5
+    },
+    {
+     "nome" : "Amari ","costo": 3
+    },
+    {
+     "nome" : "Amaro mezzo","costo": 1.5
+    },
+    {
+     "nome" : "grappa 903","costo": 3.5
+    },
+    {
+     "nome" : "* mezzo ","costo": 2
+    },
+    {
+     "nome" : "Campari \/ Crodino","costo": 3
+    },
+    {
+     "nome" : "* corretto","costo": 3.5
+    },
+    {
+     "nome" : "cocktail","costo": 6
+    },
+    {
+     "nome" : "Bevande frigorifero","costo": 2.5
+    },
+    {
+     "nome" : "* Esta tè ","costo": 1.2
+    },
+    {
+     "nome" : "Bevande frigo bancone","costo": 3
+    },
+    {
+     "nome" : "* Aperol soda","costo": 2.5
+    },
+    {
+     "nome" : "Cioccolata calda ","costo": 4
+    },
+    {
+     "nome" : "* con panna","costo": 4.5
+    },
+    {
+     "nome" : "Tè caldo","costo": 3.5
+    }
+   ]

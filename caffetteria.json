@@ -1,0 +1,54 @@
+[{
+    "nome": "caffè","costo": 1.20
+},
+{
+ "nome" :    "caffè macchiato","costo": 1.20
+},
+{
+ "nome" : "Decaffeinato","costo": 1.5
+},
+{
+ "nome" : "Caffè americano","costo": 1.3
+},
+{
+ "nome" : "Caffè macchiato soia ","costo": 1.2
+},
+{
+ "nome" : "Caffè corretto ","costo": 1.5
+},
+{
+ "nome" : "Orzo e ginseng piccolo","costo": 1.5
+},
+{
+ "nome" : "\/\/ corretto ","costo": 1.8
+},
+{
+ "nome" : "Orzo ginseng grande ","costo": 1.8
+},
+{
+ "nome" : "\/\/ corretto","costo": 2
+},
+{
+ "nome" : "Cappuccino","costo": 1.4
+},
+{
+ "nome" : "Cappuccino soia \/ senza lattosio ","costo": 1.7
+},
+{
+ "nome" : "Cappuccino decaffeinato","costo": 1.7
+},
+{
+ "nome" : "Cappuccino decaffeinato soia \/ senza lattosio ","costo": 2
+},
+{
+ "nome" : "Crema caffè piccola","costo": 2.5
+},
+{
+ "nome" : "Crema caffè grande","costo": 3.5
+},
+{
+ "nome" : "Spremuta arancia","costo": 3.5
+},
+{
+ "nome" : "Spremuta mista \/ solo melograno ","costo": 4
+}]

@@ -19,7 +19,7 @@ li{
     -webkit-filter: invert(100%);
     filter: invert(100%);
 }
-@media (max-width: 600px) {
+@media (max-width: 900px) {
     h1{
         font-size: 4em;
     }
@@ -30,7 +30,7 @@ li{
         font-size: 2em;
     }
 }
-@media (min-width: 601px) {
+@media (min-width: 901px) {
     h1{
         font-size: 2.5em;
     }

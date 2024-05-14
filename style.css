@@ -15,11 +15,18 @@ li{
     display: flex;
     justify-content: space-between;
 }
+.logo-title{
+    display: flex;
+    justify-content: center;
+}
+.logo{
+    width: 600px;
+}
 .caffè,.birra,.croissant,.vino,.cocktail{
     -webkit-filter: invert(100%);
     filter: invert(100%);
 }
-@media (max-width: 900px) {
+@media (max-width: 600px) {
     h1{
         font-size: 6em;
     }
@@ -30,7 +37,7 @@ li{
         font-size: 4em;
     }
 }
-@media (min-width: 901px) {
+@media (min-width: 601px) {
     h1{
         font-size: 5em;
     }
@@ -43,32 +50,32 @@ li{
     }
 }
 .caffè{
-    width: 50px;
+    width: 80px;
     position: relative;
     left: 80vw;
-    top: 25px;
+    top: 30px;
 }
 .croissant{
-    height: 60px; 
+    height: 90px; 
     position: relative;
     left: 80vw;
-    top: 25px;
+    top: 27px;
 }
 .birra{
-    width: 60px;
+    width: 90px;
     position: relative;
     left: 80vw;
     top: 16px; 
 }
 .vino{
-    width: 60px;
+    width: 90px;
     position: relative;
     left: 80vw;
     top: 14px; 
 
 }
 .cocktail{
-    width: 50px;
+    width: 80px;
     position: relative; 
     left: 82vw;
     top: 15px; 
